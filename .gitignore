@@ -1,0 +1,7 @@
+data/raw/
+.chromadb/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+models/

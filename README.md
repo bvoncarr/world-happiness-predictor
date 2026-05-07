@@ -122,3 +122,35 @@ streamlit run app.py
 ## Data Source
 
 World Happiness Report 2005–2025 · Kaggle · Elvis Bui
+
+---
+
+## References
+
+**Data Sources**
+- World Happiness Report 2005–2025 — Elvis Bui, Kaggle: https://www.kaggle.com/datasets/elvisbui/world-happiness-report-2005-2025-panel
+- World Happiness Report (Official) — Helliwell, J., Layard, R., & Sachs, J.: https://worldhappiness.report/
+
+**Machine Learning**
+- Scikit-learn Documentation: https://scikit-learn.org/stable/
+- Random Forest User Guide: https://scikit-learn.org/stable/modules/ensemble.html\#forest
+
+**RAG & Vector Database**
+- ChromaDB Documentation: https://docs.trychroma.com/
+- Sentence Transformers (all-MiniLM-L6-v2): https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+
+**Web App**
+- Streamlit Documentation: https://docs.streamlit.io/
+- Plotly Python: https://plotly.com/python/
+
+**Research Sources**
+- WHO Global Health Observatory: https://www.who.int/data/gho
+- Transparency International Corruption Index: https://www.transparency.org/en/cpi
+- Journal of Happiness Studies: https://link.springer.com/journal/10902
+
+**Tools**
+- Python 3: https://www.python.org/
+- Jupyter Notebooks: https://jupyter.org/
+- GitHub: https://github.com/
+- Kaggle: https://www.kaggle.com/
+- VS Code: https://code.visualstudio.com/
